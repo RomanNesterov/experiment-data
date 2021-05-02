@@ -1,5 +1,6 @@
 # experiment-data
-Compositional discovery of architecture-aware and sound process models of multi-agent systems: experimental data
+Compositional discovery of architecture-aware and sound process models of multi-agent systems: experimental data.
+
 According to the experiment plan, there is the folder for each interface pattern containing:
 1. The reference model (PNML-file)
 2. The event log obtained by simulating the behavior of the reference model (XES-file)
